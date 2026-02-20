@@ -1,0 +1,16 @@
+{
+  "name": "pack-node-ims",
+  "version": "1.0.0",
+  "description": "An efficient, scalable Node.js module to streamline inventory operations, featuring real-time stock tracking, product management, purchase order handling, and basic reporting functionalities.",
+  "repository": {
+    "type": "git",
+    "url": "Yes"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
