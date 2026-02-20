@@ -4,10 +4,10 @@
   "description": "An efficient, scalable Node.js module to streamline inventory operations, featuring real-time stock tracking, product management, purchase order handling, and basic reporting functionalities.",
   "repository": {
     "type": "git",
-    "url": "Yes"
+    "url": "https://github.com/stackstorm-07/Node-pack-IMS.git"
   },
   "license": "ISC",
-  "author": "",
+  "author": "Ankit Kumar <your-email@example.com>",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
